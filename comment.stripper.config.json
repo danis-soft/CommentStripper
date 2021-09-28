@@ -1,0 +1,24 @@
+{
+	"input":[
+			"options.js",
+			"background.js",
+			"js\\content_script.js",
+			"js\\common.js"
+			],
+	"options": {
+		"comment_blocks":
+		{
+			"remove": true
+		},
+		"comment_single":
+		{	
+			"remove": true
+		},
+		"whitespace":
+		{	
+
+			"remove": true
+		}
+	},
+	"except": "@license"
+}
