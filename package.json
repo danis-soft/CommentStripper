@@ -1,0 +1,27 @@
+{
+  "name": "commentstripper",
+  "version": "1.0.0",
+  "description": "Comment stripper - allows to strip comments C style (single and block)  and whitespaces; allows to specify exclusion string",
+  "main": "comment_stripper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danis-soft/CommentStripper.git"
+  },
+  "keywords": [
+    "comments",
+    "remover"
+  ],
+  "author": "Danis Soft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danis-soft/CommentStripper/issues"
+  },
+  "homepage": "https://github.com/danis-soft/CommentStripper#readme",
+  "dependencies": {
+    "argv": "0.0.2",
+    "yargs": "^17.2.1"
+  }
+}

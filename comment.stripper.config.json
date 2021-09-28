@@ -1,9 +1,6 @@
 {
 	"input":[
-			"options.js",
-			"background.js",
-			"js\\content_script.js",
-			"js\\common.js"
+			"example1.js"
 			],
 	"options": {
 		"comment_blocks":
